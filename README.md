@@ -96,11 +96,14 @@ Good charts to try: **Bar** Region vs Revenue, **Line** Date vs Revenue, **Pie**
 
 ## Screenshots
 
-Add your own screenshots here after running the app:
+### Home
+![Home Dashboard](screenshots/home.png)
 
-| Home | Visualize | Statistics |
-|---|---|---|
-| `screenshots/home.png` | `screenshots/visualize.png` | `screenshots/statistics.png` |
+### Visualize
+![Chart Visualization](screenshots/visualize.png)
+
+### Statistics
+![Dataset Statistics](screenshots/statistics.png)
 
 ## Troubleshooting
 
